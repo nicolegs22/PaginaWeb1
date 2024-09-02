@@ -1,18 +1,30 @@
 <!DOCTYPE html>
-
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<html lang="es">
 <head>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <title>Mi primer sitio web</title>
 </head>
 <body>
-    <u1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores earum eos eum eveniet fuga harum in maxime minima minus molestias, nemo nihil, obcaecati provident quam sed sint tenetur ut voluptatibus.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi consequatur consequuntur dolores error, ex fugit hic laboriosam minima molestias necessitatibus nostrum soluta tempore unde? Animi ipsam minima omnis sint voluptate.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, assumenda beatae distinctio enim excepturi exercitationem ipsa iusto libero minus nesciunt nihil numquam officia quibusdam quo ullam unde, veniam vero, vitae?</p>
+
+    <ul>
+        <li>uno</li>
+        <li>dos</li>
+        <li>tres</li>
         <li>cuatro</li>
-        <li>asada</li>
-        <li>sddadsada</li>
-        <li>asdadas</li>
-    </u1>
+    </ul>
+
+    <ul>
+        <li>a</li>
+        <li>b</li>
+        <li>c</li>
+        <li>d</li>
+    </ul>
+
     <p class="foo"></p>
-    
+
 </body>
 </html>
