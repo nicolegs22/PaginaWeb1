@@ -25,6 +25,12 @@
     </ul>
 
     <p class="foo"></p>
-
+    <div style="background-color: red;border: 5px solid black">
+        Elemento de bloque
+    </div>
+    <div style="background-color: yellow;"><span>Hola</span>
+    <span style="background-color: antiquewhite;">Mundo</span>
+    <div style="background-color: burlywood;">Cruel</div></div>
+   
 </body>
 </html>
